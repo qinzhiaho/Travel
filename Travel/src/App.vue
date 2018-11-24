@@ -15,7 +15,7 @@ export default {
 
 <style>
   .border-1px:after{
-    border-color: blue;
+    border-color: black;
   }
   #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -25,5 +25,4 @@ export default {
     color: #2c3e50;
     margin-top: 60px;
   }
-
 </style>
