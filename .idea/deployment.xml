@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://github.com/qinzhiaho/Travel.git" uploadOnCheckin="a8d49c39-c9f3-4673-a93e-fab21008e532">
+    <serverData>
+      <paths name="https://github.com/qinzhiaho/Travel.git">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/qinzhiaho/Travel.git" />
+  </component>
+</project>

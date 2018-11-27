@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <home-header></home-header>
+    <home-swiper></home-swiper>
   </div>
 </template>
 
@@ -8,7 +9,7 @@
 
   // import Header from './Header'
   import HomeHeader from './HomeHeader'
-
+  import HomeSwiper from '../Swiper'
   export default {
     name: 'Home',
     data () {
@@ -16,9 +17,10 @@
         msg: 'this is home page'
       }
     },
-    components: {HomeHeader},
+    components: {HomeSwiper, HomeHeader},
     comments: {
-      HomeHeader
+      HomeHeader,
+      HomeSwiper
     }
   }
 </script>

@@ -52,7 +52,6 @@
       height 4.3rem
       width 6.2rem
       float right
-      font-size 1.5rem
       .icon-xiala
         margin-left -0.3rem
 </style>
